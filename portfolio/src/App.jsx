@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const RESUME_URL = "/resume.pdf";
+const RESUME_URL = "/yashoda-portfolio/resume.pdf";
 const TRACK_URL =
   "https://script.google.com/macros/s/AKfycbwyGhEW3G2uMFKX7_SB_OzGZZdjbGyDXrvje6RUY-gtpX4OgB5A_Sn-BDP7mswRxvo/exec";
 
